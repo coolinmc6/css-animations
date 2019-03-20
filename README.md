@@ -1,6 +1,5 @@
-<a name="top"></a>
 # CSS: Animation
-
+<a name="top"></a>
 
 ## 1. CSS Transforms
 
