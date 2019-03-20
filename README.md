@@ -1,4 +1,4 @@
-
+<a name="top"></a>
 # CSS: Animation
 
 
@@ -34,6 +34,8 @@
 - The order matters! Transforms stack but it depends on the order that they appear
 - [MDN: Skew](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew)
 
+[[↑] Back to top](#top)
+
 ### Simple 3D Transforms
 
 ```css
@@ -53,6 +55,8 @@ img {
 
 - Rotating the image and then adding perspective to the wrapper makes the image look 3D. **Cool effect I should remember.**
 - [MDN Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function)
+
+[[↑] Back to top](#top)
 
 ### CSS Transitions
 
@@ -82,6 +86,7 @@ button:hover {
 
 - Our transition property allows us to set specifically how we want the button to change. Our background will take 0.5 seconds and ease-in while our transform will wait 0.25 seconds before it starts its change, which also takes 0.5 seconds and will ease-in.
 
+[[↑] Back to top](#top)
 
 ## 2. Understanding CSS Animations
 
@@ -107,6 +112,8 @@ button:hover {
 }
 ```
 
+[[↑] Back to top](#top)
+
 ### Use Animation-Delay and Animation-Fill-Mode
 
 - `animation-fill-mode` tells the animation what to do outside of its animation
@@ -115,6 +122,8 @@ button:hover {
 - Here is a good summary of how it works:
 
 ![Animation fill mode](https://github.com/coolinmc6/css-animations/blob/master/assets/animation-fill-mode.png)
+
+[[↑] Back to top](#top)
 
 
 
