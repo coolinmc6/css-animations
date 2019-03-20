@@ -31,6 +31,8 @@ button {
 	padding:1em 3em;
 	margin: 2em auto;
 	display:block;
+
+	transition: background .5s ease-in, transform .5s .25s ease-in;
 }
 
 button:hover {
